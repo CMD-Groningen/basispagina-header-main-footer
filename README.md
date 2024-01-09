@@ -1,4 +1,4 @@
-# Basis pagina met grote header
+# Basis HTML pagina lay-out met grote header.
 
 Bestanden **downloaden** naar je laptop? [Klik hier](https://github.com/CMD-Groningen/basispagina-header-main-footer/archive/refs/heads/master.zip)     
 Preview in de browser? [Klik hier](https://cmd-groningen.github.io/basispagina-header-main-footer)  
